@@ -24,5 +24,3 @@ const createStudent = (parNome) => {
 };
 
 module.exports = createStudent;
-
-console.log(createStudent().feedback());
